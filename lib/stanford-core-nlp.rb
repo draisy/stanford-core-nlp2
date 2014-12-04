@@ -29,8 +29,8 @@ module StanfordCoreNLP
   StanfordCoreNLP.default_jars = [
   'joda-time.jar',
   'xom.jar',
-  'stanford-corenlp-3.3.1.jar',
-  'stanford-corenlp-3.3.1-models.jar',
+  #'stanford-corenlp-3.3.1.jar',
+  #'stanford-corenlp-3.3.1-models.jar',
   'jollyday.jar',
   'bridge.jar',
   'ejml-0.23.jar',
